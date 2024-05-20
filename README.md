@@ -3,7 +3,7 @@ Acquired dataset from Kaggle and performed data cleaning, utilized linear regres
 
 The dataset contains information regarding loan applicants and their approval status, aimed at predicting whether a loan application will be approved or not. It comprises 614 rows and 12 columns, with each row representing a unique loan applicant.
 
-</b>Columns:</b>
+<b>Columns:</b>
 
     Loan_ID: Unique identifier for each loan application.
     Gender: Gender of the applicant.
