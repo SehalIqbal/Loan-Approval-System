@@ -1,5 +1,5 @@
 # Loan-Approval-System
-Acquired dataset from Kaggle and performed data cleaning, utilized linear regression to train the model on the preprocessed data. evaluated the model's performance using appropriate metrics to assess accuracy and generalization.
+Acquired dataset from Kaggle and performed data cleaning, utilized Logistic regression to train the model on the preprocessed data. evaluated the model's performance using appropriate metrics to assess accuracy and generalization.
 
 The dataset contains information regarding loan applicants and their approval status, aimed at predicting whether a loan application will be approved or not. It comprises 614 rows and 12 columns, with each row representing a unique loan applicant.
 
